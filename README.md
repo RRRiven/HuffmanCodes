@@ -1,2 +1,2 @@
-# BinaryTree
-Simple implementation of a binary tree in C++
+# HuffmanCodes
+Simple implementation of a Huffman encoder/decoder in C++
